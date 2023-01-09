@@ -1,2 +1,2 @@
 # information_collection
-This project is a web automation and web scraping tool written in Python.
+This project is a web automation and web scraping tool written in Python. It allows users to automate web tasks such as filling out forms, clicking buttons, and extracting data from webpages. The tool is designed to be easy to use and can be used for a variety of purposes such as web testing, data mining, and web scraping. It is also highly customizable and can be used to create custom scripts for specific web tasks.
